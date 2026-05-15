@@ -1,0 +1,9 @@
+CustomerID,Name,MonthlyUsageHours,SubscriptionType,SupportTickets,Churn
+1,Ravi,5,Basic,4,Yes
+2,Sita,25,Premium,1,No
+3,Kumar,8,Basic,5,Yes
+4,Anu,30,Premium,0,No
+5,Ram,12,Standard,2,No
+6,Deepa,6,Basic,3,Yes
+7,Ajay,20,Standard,1,No
+8,Priya,4,Basic,6,Yes
